@@ -1,0 +1,83 @@
+
+
+@font-face {
+    font-family: Anjoman;
+    font-weight: 100;
+    src: url(../assets/fonts/Anjoman-Thin.ttf);
+}
+
+@font-face {
+    font-family: Anjoman;
+    font-weight: 200;
+    src: url(../assets/fonts/Anjoman-ExtraLight.ttf);
+}
+
+@font-face {
+    font-family: Anjoman;
+    font-weight: 300;
+    src: url(../assets/fonts/Anjoman-Light.ttf);
+}
+
+@font-face {
+    font-family: Anjoman;
+    font-weight: 500;
+    src: url(../assets/fonts/Anjoman-Medium.ttf);
+}
+
+@font-face {
+    font-family: Anjoman;
+    font-weight: 600;
+    src: url(../assets/fonts/Anjoman-SemiBold.ttf);
+}
+
+@font-face {
+    font-family: Anjoman;
+    font-weight: 750;
+    src: url(../assets/fonts/Anjoman-ExtraBold.ttf);
+}
+
+@font-face {
+    font-family: Anjoman;
+    font-weight: 850;
+    src: url(../assets/fonts/Anjoman-Black.ttf);
+}
+
+@font-face {
+    font-family: Anjoman;
+    font-weight: 900;
+    src: url(../assets/fonts/Anjoman-Heavy.ttf);
+}
+
+@font-face {
+    font-family: Anjoman;
+    font-weight: bold;
+    src: url(../assets/fonts/Anjoman-Bold.ttf);
+}
+
+@font-face {
+    font-family: Anjoman;
+    font-weight: normal;
+    src: url(../assets/fonts/Anjoman-Regular.ttf);
+}
+
+
+
+@font-face {
+    font-family: Morraba;
+    font-weight: normal;
+    src: url(../assets/fonts/Morabba-Regular.ttf);
+}
+
+
+@font-face {
+    font-family: Morraba;
+    font-weight: bold;
+    src: url(../assets/fonts/Morabba-Bold.ttf);
+}
+
+
+@font-face {
+    font-family: Anjoman;
+    font-weight: 1000;
+    src: url(../assets/fonts/Morabba-Black.ttf);
+}
