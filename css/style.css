@@ -12,6 +12,7 @@
 	border: 0;
     box-sizing: border-box;
     transition: all 0.5s;
+    scroll-behavior: smooth;
 }
 
 body {
@@ -437,6 +438,10 @@ main {
     background: var(--gold-color);
     width: 100%;
     height: 2px;
+}
+
+.img-gallery-wrapper-title h3 {
+    color: var(--white-color);
 }
 
 

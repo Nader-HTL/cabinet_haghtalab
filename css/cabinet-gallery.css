@@ -1,0 +1,26 @@
+:root {
+    --black-color: #0e0e0e;
+    --white-color: #fff;
+    --gold-color: #dbc155;
+    --gold-dark: #bbaa53;
+}
+
+.img-gallery-wrapper-title-instagram {
+    text-align: center;
+}
+
+.img-gallery-wrapper-title-instagram h3 {
+    color: var(--white-color);
+    margin-bottom: 30px;
+    font-size: 18px;
+}
+
+.instagram-callout {
+    position: relative;
+    color: var(--white-color);
+    background-color: #0e0e0e;
+    text-decoration: none;
+    padding: 6px 17px;
+    border-right: 2px solid #bbaa53;
+    border-left: 2px solid #bbaa53;
+}
